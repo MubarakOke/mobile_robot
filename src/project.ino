@@ -23,6 +23,7 @@ int M2P1= 8;
 int M2P2= 9;
 int EN1= 10;
 int EN2= 11;
+
 // Motor CMD
 int FW_CMD;
 int BW_CMD;
@@ -30,12 +31,14 @@ int RT_CMD;
 int LT_CMD;
 int SP_CMD;
 int ST_CMD;
+
 //Motor speed initials
 int Speed=255;
 
 //BLYNK
 BlynkTimer Timer;
 char auth[] = "q2osdejVmrC8GUO8D_6GRB35OeorKAdH";
+
 //LCD
 WidgetLCD lcd(V1);
 
