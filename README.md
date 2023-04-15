@@ -15,7 +15,6 @@ and sensor-based
 
 - [MIT app inventor] - easy to implement mobile app builder
 - [Arduino] - awesome text editor for the arduino microcontroller
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
 - [hc-05] - bluetooth module
 - [l293D] - motor controller
 
